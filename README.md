@@ -1,7 +1,7 @@
 # Neural Network Algorithms (LabWork)
 
 ## Algorithms Implemented
-- **Nearest Neighbor Classification**
+- **K Nearest Neighbor**
 - **Single Layer Perceptron**
 - **Multi-layer Neural Networks**
 - **Kohonen Self-organizing Neural Networks**
