@@ -12,4 +12,4 @@
 
 ## Highlights
 - Each algorithm is implemented from scratch, providing insight into the mechanics of neural networks.
-- Developed a basic understanding in The Deep Neural Network.
+- Developed a basic understanding of The Deep Neural Network.
